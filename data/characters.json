@@ -1,638 +1,638 @@
 [
-  {
-    "Name": "Albedo",
-    "Element": "Geo",
-    "owned": false,
-    "level": 0
-  },
-  {
-    "Name": "Alhaitham",
-    "Element": "Dendro",
-    "owned": false,
-    "level": 0
-  },
-  {
-    "Name": "Aloy",
-    "Element": "Cryo",
-    "owned": false,
-    "level": 0
-  },
-  {
-    "Name": "Amber",
-    "Element": "Pyro",
-    "owned": false,
-    "level": 0
-  },
-  {
-    "Name": "Arataki Itto",
-    "Element": "Geo",
-    "owned": false,
-    "level": 0
-  },
-  {
-    "Name": "Arlecchino",
-    "Element": "Pyro",
-    "owned": false,
-    "level": 0
-  },
-  {
-    "Name": "Baizhu",
-    "Element": "Dendro",
-    "owned": false,
-    "level": 0
-  },
-  {
-    "Name": "Barbara",
-    "Element": "Hydro",
-    "owned": false,
-    "level": 0
-  },
-  {
-    "Name": "Beidou",
-    "Element": "Electro",
-    "owned": false,
-    "level": 0
-  },
-  {
-    "Name": "Bennett",
-    "Element": "Pyro",
-    "owned": false,
-    "level": 0
-  },
-  {
-    "Name": "Candace",
-    "Element": "Hydro",
-    "owned": false,
-    "level": 0
-  },
-  {
-    "Name": "Charlotte",
-    "Element": "Cryo",
-    "owned": false,
-    "level": 0
-  },
-  {
-    "Name": "Chasca",
-    "Element": "Anemo",
-    "owned": false,
-    "level": 0
-  },
-  {
-    "Name": "Chevreuse",
-    "Element": "Pyro",
-    "owned": false,
-    "level": 0
-  },
-  {
-    "Name": "Chiori",
-    "Element": "Geo",
-    "owned": false,
-    "level": 0
-  },
-  {
-    "Name": "Chongyun",
-    "Element": "Cryo",
-    "owned": false,
-    "level": 0
-  },
-  {
-    "Name": "Citlali",
-    "Element": "Cryo",
-    "owned": false,
-    "level": 0
-  },
-  {
-    "Name": "Clorinde",
-    "Element": "Electro",
-    "owned": false,
-    "level": 0
-  },
-  {
-    "Name": "Collei",
-    "Element": "Dendro",
-    "owned": false,
-    "level": 0
-  },
-  {
-    "Name": "Cyno",
-    "Element": "Electro",
-    "owned": false,
-    "level": 0
-  },
-  {
-    "Name": "Dahlia",
-    "Element": "Hydro",
-    "owned": false,
-    "level": 0
-  },
-  {
-    "Name": "Dehya",
-    "Element": "Pyro",
-    "owned": false,
-    "level": 0
-  },
-  {
-    "Name": "Diluc",
-    "Element": "Pyro",
-    "owned": false,
-    "level": 0
-  },
-  {
-    "Name": "Diona",
-    "Element": "Cryo",
-    "owned": false,
-    "level": 0
-  },
-  {
-    "Name": "Dori",
-    "Element": "Electro",
-    "owned": false,
-    "level": 0
-  },
-  {
-    "Name": "Emilie",
-    "Element": "Dendro",
-    "owned": false,
-    "level": 0
-  },
-  {
-    "Name": "Escoffier",
-    "Element": "Cryo",
-    "owned": false,
-    "level": 0
-  },
-  {
-    "Name": "Eula",
-    "Element": "Cryo",
-    "owned": false,
-    "level": 0
-  },
-  {
-    "Name": "Faruzan",
-    "Element": "Anemo",
-    "owned": false,
-    "level": 0
-  },
-  {
-    "Name": "Fischl",
-    "Element": "Electro",
-    "owned": false,
-    "level": 0
-  },
-  {
-    "Name": "Freminet",
-    "Element": "Cryo",
-    "owned": false,
-    "level": 0
-  },
-  {
-    "Name": "Furina",
-    "Element": "Hydro",
-    "owned": false,
-    "level": 0
-  },
-  {
-    "Name": "Gaming",
-    "Element": "Pyro",
-    "owned": false,
-    "level": 0
-  },
-  {
-    "Name": "Ganyu",
-    "Element": "Cryo",
-    "owned": false,
-    "level": 0
-  },
-  {
-    "Name": "Gorou",
-    "Element": "Geo",
-    "owned": false,
-    "level": 0
-  },
-  {
-    "Name": "Hu Tao",
-    "Element": "Pyro",
-    "owned": false,
-    "level": 0
-  },
-  {
-    "Name": "Iansan",
-    "Element": "Electro",
-    "owned": false,
-    "level": 0
-  },
-  {
-    "Name": "Ifa",
-    "Element": "Anemo",
-    "owned": false,
-    "level": 0
-  },
-  {
-    "Name": "Jean",
-    "Element": "Anemo",
-    "owned": false,
-    "level": 0
-  },
-  {
-    "Name": "Kachina",
-    "Element": "Geo",
-    "owned": false,
-    "level": 0
-  },
-  {
-    "Name": "Kaedehara Kazuha",
-    "Element": "Anemo",
-    "owned": false,
-    "level": 0
-  },
-  {
-    "Name": "Kaeya",
-    "Element": "Cryo",
-    "owned": false,
-    "level": 0
-  },
-  {
-    "Name": "Kamisato Ayaka",
-    "Element": "Cryo",
-    "owned": false,
-    "level": 0
-  },
-  {
-    "Name": "Kamisato Ayato",
-    "Element": "Hydro",
-    "owned": false,
-    "level": 0
-  },
-  {
-    "Name": "Kaveh",
-    "Element": "Dendro",
-    "owned": false,
-    "level": 0
-  },
-  {
-    "Name": "Keqing",
-    "Element": "Electro",
-    "owned": false,
-    "level": 0
-  },
-  {
-    "Name": "Kinich",
-    "Element": "Dendro",
-    "owned": false,
-    "level": 0
-  },
-  {
-    "Name": "Kirara",
-    "Element": "Dendro",
-    "owned": false,
-    "level": 0
-  },
-  {
-    "Name": "Klee",
-    "Element": "Pyro",
-    "owned": false,
-    "level": 0
-  },
-  {
-    "Name": "Kujou Sara",
-    "Element": "Electro",
-    "owned": false,
-    "level": 0
-  },
-  {
-    "Name": "Kuki Shinobu",
-    "Element": "Electro",
-    "owned": false,
-    "level": 0
-  },
-  {
-    "Name": "Lan Yan",
-    "Element": "Anemo",
-    "owned": false,
-    "level": 0
-  },
-  {
-    "Name": "Layla",
-    "Element": "Cryo",
-    "owned": false,
-    "level": 0
-  },
-  {
-    "Name": "Lisa",
-    "Element": "Electro",
-    "owned": false,
-    "level": 0
-  },
-  {
-    "Name": "Lynette",
-    "Element": "Anemo",
-    "owned": false,
-    "level": 0
-  },
-  {
-    "Name": "Lyney",
-    "Element": "Pyro",
-    "owned": false,
-    "level": 0
-  },
-  {
-    "Name": "Mavuika",
-    "Element": "Pyro",
-    "owned": false,
-    "level": 0
-  },
-  {
-    "Name": "Mika",
-    "Element": "Cryo",
-    "owned": false,
-    "level": 0
-  },
-  {
-    "Name": "Mona",
-    "Element": "Hydro",
-    "owned": false,
-    "level": 0
-  },
-  {
-    "Name": "Mualani",
-    "Element": "Hydro",
-    "owned": false,
-    "level": 0
-  },
-  {
-    "Name": "Nahida",
-    "Element": "Dendro",
-    "owned": false,
-    "level": 0
-  },
-  {
-    "Name": "Navia",
-    "Element": "Geo",
-    "owned": false,
-    "level": 0
-  },
-  {
-    "Name": "Neuvillette",
-    "Element": "Hydro",
-    "owned": false,
-    "level": 0
-  },
-  {
-    "Name": "Nilou",
-    "Element": "Hydro",
-    "owned": false,
-    "level": 0
-  },
-  {
-    "Name": "Ningguang",
-    "Element": "Geo",
-    "owned": false,
-    "level": 0
-  },
-  {
-    "Name": "Noelle",
-    "Element": "Geo",
-    "owned": false,
-    "level": 0
-  },
-  {
-    "Name": "Ororon",
-    "Element": "Electro",
-    "owned": false,
-    "level": 0
-  },
-  {
-    "Name": "Qiqi",
-    "Element": "Cryo",
-    "owned": false,
-    "level": 0
-  },
-  {
-    "Name": "Raiden Shogun",
-    "Element": "Electro",
-    "owned": false,
-    "level": 0
-  },
-  {
-    "Name": "Razor",
-    "Element": "Electro",
-    "owned": false,
-    "level": 0
-  },
-  {
-    "Name": "Rosaria",
-    "Element": "Cryo",
-    "owned": false,
-    "level": 0
-  },
     {
-    "Name": "Sangonomiya Kokomi",
-    "Element": "Hydro",
-    "owned": false,
-    "level": 0
-  },
-  {
-    "Name": "Sayu",
-    "Element": "Anemo",
-    "owned": false,
-    "level": 0
-  },
-  {
-    "Name": "Sethos",
-    "Element": "Electro",
-    "owned": false,
-    "level": 0
-  },
-  {
-    "Name": "Shenhe",
-    "Element": "Cryo",
-    "owned": false,
-    "level": 0
-  },
+        "Name": "Albedo",
+        "Element": "Geo",
+        "owned": 1,
+        "level": 1
+    },
     {
-    "Name": "Shikanoin Heizou",
-    "Element": "Anemo",
-    "owned": false,
-    "level": 0
-  },
-  {
-    "Name": "Sigewinne",
-    "Element": "Hydro",
-    "owned": false,
-    "level": 0
-  },
-  {
-    "Name": "Skirk",
-    "Element": "Cryo",
-    "owned": false,
-    "level": 0
-  },
-  {
-    "Name": "Sucrose",
-    "Element": "Anemo",
-    "owned": false,
-    "level": 0
-  },
-  {
-    "Name": "Tartaglia",
-    "Element": "Hydro",
-    "owned": false,
-    "level": 0
-  },
-  {
-    "Name": "Thoma",
-    "Element": "Pyro",
-    "owned": false,
-    "level": 0
-  },
-  {
-    "Name": "Tighnari",
-    "Element": "Dendro",
-    "owned": false,
-    "level": 0
-  },
-  {
-    "Name": "Traveler",
-    "Element": "Anemo",
-    "owned": false,
-    "level": 0
-  },
-  {
-    "Name": "Traveler",
-    "Element": "Dendro",
-    "owned": false,
-    "level": 0
-  },
-  {
-    "Name": "Traveler",
-    "Element": "Electro",
-    "owned": false,
-    "level": 0
-  },
-  {
-    "Name": "Traveler",
-    "Element": "Geo",
-    "owned": false,
-    "level": 0
-  },
-  {
-    "Name": "Traveler",
-    "Element": "Hydro",
-    "owned": false,
-    "level": 0
-  },
-  {
-    "Name": "Traveler",
-    "Element": "Pyro",
-    "owned": false,
-    "level": 0
-  },
-  {
-    "Name": "Varesa",
-    "Element": "Electro",
-    "owned": false,
-    "level": 0
-  },
-  {
-    "Name": "Venti",
-    "Element": "Anemo",
-    "owned": false,
-    "level": 0
-  },
-  {
-    "Name": "Wanderer",
-    "Element": "Anemo",
-    "owned": false,
-    "level": 0
-  },
-  {
-    "Name": "Wriothesley",
-    "Element": "Cryo",
-    "owned": false,
-    "level": 0
-  },
-  {
-    "Name": "Xiangling",
-    "Element": "Pyro",
-    "owned": false,
-    "level": 0
-  },
-  {
-    "Name": "Xianyun",
-    "Element": "Anemo",
-    "owned": false,
-    "level": 0
-  },
-  {
-    "Name": "Xiao",
-    "Element": "Anemo",
-    "owned": false,
-    "level": 0
-  },
-  {
-    "Name": "Xilonen",
-    "Element": "Geo",
-    "owned": false,
-    "level": 0
-  },
-  {
-    "Name": "Xingqiu",
-    "Element": "Hydro",
-    "owned": false,
-    "level": 0
-  },
-  {
-    "Name": "Xinyan",
-    "Element": "Pyro",
-    "owned": false,
-    "level": 0
-  },
-  {
-    "Name": "Yae Miko",
-    "Element": "Electro",
-    "owned": false,
-    "level": 0
-  },
-  {
-    "Name": "Yanfei",
-    "Element": "Pyro",
-    "owned": false,
-    "level": 0
-  },
-  {
-    "Name": "Yaoyao",
-    "Element": "Dendro",
-    "owned": false,
-    "level": 0
-  },
-  {
-    "Name": "Yelan",
-    "Element": "Hydro",
-    "owned": false,
-    "level": 0
-  },
-  {
-    "Name": "Yoimiya",
-    "Element": "Pyro",
-    "owned": false,
-    "level": 0
-  },
+        "Name": "Alhaitham",
+        "Element": "Dendro",
+        "owned": 0,
+        "level": 1
+    },
     {
-    "Name": "Yumemizuki Mizuki",
-    "Element": "Anemo",
-    "owned": false,
-    "level": 0
-  },
-  {
-    "Name": "Yun Jin",
-    "Element": "Geo",
-    "owned": false,
-    "level": 0
-  },
-  {
-    "Name": "Zhongli",
-    "Element": "Geo",
-    "owned": false,
-    "level": 0
-  }
+        "Name": "Aloy",
+        "Element": "Cryo",
+        "owned": 0,
+        "level": 1
+    },
+    {
+        "Name": "Amber",
+        "Element": "Pyro",
+        "owned": 0,
+        "level": 1
+    },
+    {
+        "Name": "Arataki Itto",
+        "Element": "Geo",
+        "owned": 0,
+        "level": 1
+    },
+    {
+        "Name": "Arlecchino",
+        "Element": "Pyro",
+        "owned": 0,
+        "level": 1
+    },
+    {
+        "Name": "Baizhu",
+        "Element": "Dendro",
+        "owned": 0,
+        "level": 1
+    },
+    {
+        "Name": "Barbara",
+        "Element": "Hydro",
+        "owned": 0,
+        "level": 1
+    },
+    {
+        "Name": "Beidou",
+        "Element": "Electro",
+        "owned": 0,
+        "level": 1
+    },
+    {
+        "Name": "Bennett",
+        "Element": "Pyro",
+        "owned": 0,
+        "level": 1
+    },
+    {
+        "Name": "Candace",
+        "Element": "Hydro",
+        "owned": 0,
+        "level": 1
+    },
+    {
+        "Name": "Charlotte",
+        "Element": "Cryo",
+        "owned": 0,
+        "level": 1
+    },
+    {
+        "Name": "Chasca",
+        "Element": "Anemo",
+        "owned": 0,
+        "level": 1
+    },
+    {
+        "Name": "Chevreuse",
+        "Element": "Pyro",
+        "owned": 0,
+        "level": 1
+    },
+    {
+        "Name": "Chiori",
+        "Element": "Geo",
+        "owned": 0,
+        "level": 1
+    },
+    {
+        "Name": "Chongyun",
+        "Element": "Cryo",
+        "owned": 0,
+        "level": 1
+    },
+    {
+        "Name": "Citlali",
+        "Element": "Cryo",
+        "owned": 0,
+        "level": 1
+    },
+    {
+        "Name": "Clorinde",
+        "Element": "Electro",
+        "owned": 0,
+        "level": 1
+    },
+    {
+        "Name": "Collei",
+        "Element": "Dendro",
+        "owned": 0,
+        "level": 1
+    },
+    {
+        "Name": "Cyno",
+        "Element": "Electro",
+        "owned": 0,
+        "level": 1
+    },
+    {
+        "Name": "Dahlia",
+        "Element": "Hydro",
+        "owned": 0,
+        "level": 1
+    },
+    {
+        "Name": "Dehya",
+        "Element": "Pyro",
+        "owned": 0,
+        "level": 1
+    },
+    {
+        "Name": "Diluc",
+        "Element": "Pyro",
+        "owned": 0,
+        "level": 1
+    },
+    {
+        "Name": "Diona",
+        "Element": "Cryo",
+        "owned": 0,
+        "level": 1
+    },
+    {
+        "Name": "Dori",
+        "Element": "Electro",
+        "owned": 0,
+        "level": 1
+    },
+    {
+        "Name": "Emilie",
+        "Element": "Dendro",
+        "owned": 0,
+        "level": 1
+    },
+    {
+        "Name": "Escoffier",
+        "Element": "Cryo",
+        "owned": 0,
+        "level": 1
+    },
+    {
+        "Name": "Eula",
+        "Element": "Cryo",
+        "owned": 0,
+        "level": 1
+    },
+    {
+        "Name": "Faruzan",
+        "Element": "Anemo",
+        "owned": 0,
+        "level": 1
+    },
+    {
+        "Name": "Fischl",
+        "Element": "Electro",
+        "owned": 0,
+        "level": 1
+    },
+    {
+        "Name": "Freminet",
+        "Element": "Cryo",
+        "owned": 0,
+        "level": 1
+    },
+    {
+        "Name": "Furina",
+        "Element": "Hydro",
+        "owned": 0,
+        "level": 1
+    },
+    {
+        "Name": "Gaming",
+        "Element": "Pyro",
+        "owned": 0,
+        "level": 1
+    },
+    {
+        "Name": "Ganyu",
+        "Element": "Cryo",
+        "owned": 0,
+        "level": 1
+    },
+    {
+        "Name": "Gorou",
+        "Element": "Geo",
+        "owned": 0,
+        "level": 1
+    },
+    {
+        "Name": "Hu Tao",
+        "Element": "Pyro",
+        "owned": 0,
+        "level": 1
+    },
+    {
+        "Name": "Iansan",
+        "Element": "Electro",
+        "owned": 0,
+        "level": 1
+    },
+    {
+        "Name": "Ifa",
+        "Element": "Anemo",
+        "owned": 0,
+        "level": 1
+    },
+    {
+        "Name": "Jean",
+        "Element": "Anemo",
+        "owned": 0,
+        "level": 1
+    },
+    {
+        "Name": "Kachina",
+        "Element": "Geo",
+        "owned": 0,
+        "level": 1
+    },
+    {
+        "Name": "Kaedehara Kazuha",
+        "Element": "Anemo",
+        "owned": 0,
+        "level": 1
+    },
+    {
+        "Name": "Kaeya",
+        "Element": "Cryo",
+        "owned": 0,
+        "level": 1
+    },
+    {
+        "Name": "Kamisato Ayaka",
+        "Element": "Cryo",
+        "owned": 0,
+        "level": 1
+    },
+    {
+        "Name": "Kamisato Ayato",
+        "Element": "Hydro",
+        "owned": 0,
+        "level": 1
+    },
+    {
+        "Name": "Kaveh",
+        "Element": "Dendro",
+        "owned": 0,
+        "level": 1
+    },
+    {
+        "Name": "Keqing",
+        "Element": "Electro",
+        "owned": 0,
+        "level": 1
+    },
+    {
+        "Name": "Kinich",
+        "Element": "Dendro",
+        "owned": 0,
+        "level": 1
+    },
+    {
+        "Name": "Kirara",
+        "Element": "Dendro",
+        "owned": 0,
+        "level": 1
+    },
+    {
+        "Name": "Klee",
+        "Element": "Pyro",
+        "owned": 0,
+        "level": 1
+    },
+    {
+        "Name": "Kujou Sara",
+        "Element": "Electro",
+        "owned": 0,
+        "level": 1
+    },
+    {
+        "Name": "Kuki Shinobu",
+        "Element": "Electro",
+        "owned": 0,
+        "level": 1
+    },
+    {
+        "Name": "Lan Yan",
+        "Element": "Anemo",
+        "owned": 0,
+        "level": 1
+    },
+    {
+        "Name": "Layla",
+        "Element": "Cryo",
+        "owned": 0,
+        "level": 1
+    },
+    {
+        "Name": "Lisa",
+        "Element": "Electro",
+        "owned": 0,
+        "level": 1
+    },
+    {
+        "Name": "Lynette",
+        "Element": "Anemo",
+        "owned": 0,
+        "level": 1
+    },
+    {
+        "Name": "Lyney",
+        "Element": "Pyro",
+        "owned": 0,
+        "level": 1
+    },
+    {
+        "Name": "Mavuika",
+        "Element": "Pyro",
+        "owned": 0,
+        "level": 1
+    },
+    {
+        "Name": "Mika",
+        "Element": "Cryo",
+        "owned": 0,
+        "level": 1
+    },
+    {
+        "Name": "Mona",
+        "Element": "Hydro",
+        "owned": 0,
+        "level": 1
+    },
+    {
+        "Name": "Mualani",
+        "Element": "Hydro",
+        "owned": 0,
+        "level": 1
+    },
+    {
+        "Name": "Nahida",
+        "Element": "Dendro",
+        "owned": 0,
+        "level": 1
+    },
+    {
+        "Name": "Navia",
+        "Element": "Geo",
+        "owned": 0,
+        "level": 1
+    },
+    {
+        "Name": "Neuvillette",
+        "Element": "Hydro",
+        "owned": 0,
+        "level": 1
+    },
+    {
+        "Name": "Nilou",
+        "Element": "Hydro",
+        "owned": 0,
+        "level": 1
+    },
+    {
+        "Name": "Ningguang",
+        "Element": "Geo",
+        "owned": 0,
+        "level": 1
+    },
+    {
+        "Name": "Noelle",
+        "Element": "Geo",
+        "owned": 0,
+        "level": 1
+    },
+    {
+        "Name": "Ororon",
+        "Element": "Electro",
+        "owned": 0,
+        "level": 1
+    },
+    {
+        "Name": "Qiqi",
+        "Element": "Cryo",
+        "owned": 0,
+        "level": 1
+    },
+    {
+        "Name": "Raiden Shogun",
+        "Element": "Electro",
+        "owned": 0,
+        "level": 1
+    },
+    {
+        "Name": "Razor",
+        "Element": "Electro",
+        "owned": 0,
+        "level": 1
+    },
+    {
+        "Name": "Rosaria",
+        "Element": "Cryo",
+        "owned": 0,
+        "level": 1
+    },
+    {
+        "Name": "Sangonomiya Kokomi",
+        "Element": "Hydro",
+        "owned": 0,
+        "level": 1
+    },
+    {
+        "Name": "Sayu",
+        "Element": "Anemo",
+        "owned": 0,
+        "level": 1
+    },
+    {
+        "Name": "Sethos",
+        "Element": "Electro",
+        "owned": 0,
+        "level": 1
+    },
+    {
+        "Name": "Shenhe",
+        "Element": "Cryo",
+        "owned": 0,
+        "level": 1
+    },
+    {
+        "Name": "Shikanoin Heizou",
+        "Element": "Anemo",
+        "owned": 0,
+        "level": 1
+    },
+    {
+        "Name": "Sigewinne",
+        "Element": "Hydro",
+        "owned": 0,
+        "level": 1
+    },
+    {
+        "Name": "Skirk",
+        "Element": "Cryo",
+        "owned": 0,
+        "level": 1
+    },
+    {
+        "Name": "Sucrose",
+        "Element": "Anemo",
+        "owned": 0,
+        "level": 1
+    },
+    {
+        "Name": "Tartaglia",
+        "Element": "Hydro",
+        "owned": 0,
+        "level": 1
+    },
+    {
+        "Name": "Thoma",
+        "Element": "Pyro",
+        "owned": 0,
+        "level": 1
+    },
+    {
+        "Name": "Tighnari",
+        "Element": "Dendro",
+        "owned": 0,
+        "level": 1
+    },
+    {
+        "Name": "Traveler",
+        "Element": "Anemo",
+        "owned": 0,
+        "level": 1
+    },
+    {
+        "Name": "Traveler",
+        "Element": "Dendro",
+        "owned": 0,
+        "level": 1
+    },
+    {
+        "Name": "Traveler",
+        "Element": "Electro",
+        "owned": 0,
+        "level": 1
+    },
+    {
+        "Name": "Traveler",
+        "Element": "Geo",
+        "owned": 0,
+        "level": 1
+    },
+    {
+        "Name": "Traveler",
+        "Element": "Hydro",
+        "owned": 0,
+        "level": 1
+    },
+    {
+        "Name": "Traveler",
+        "Element": "Pyro",
+        "owned": 0,
+        "level": 1
+    },
+    {
+        "Name": "Varesa",
+        "Element": "Electro",
+        "owned": 0,
+        "level": 1
+    },
+    {
+        "Name": "Venti",
+        "Element": "Anemo",
+        "owned": 0,
+        "level": 1
+    },
+    {
+        "Name": "Wanderer",
+        "Element": "Anemo",
+        "owned": 0,
+        "level": 1
+    },
+    {
+        "Name": "Wriothesley",
+        "Element": "Cryo",
+        "owned": 0,
+        "level": 1
+    },
+    {
+        "Name": "Xiangling",
+        "Element": "Pyro",
+        "owned": 0,
+        "level": 1
+    },
+    {
+        "Name": "Xianyun",
+        "Element": "Anemo",
+        "owned": 0,
+        "level": 1
+    },
+    {
+        "Name": "Xiao",
+        "Element": "Anemo",
+        "owned": 0,
+        "level": 1
+    },
+    {
+        "Name": "Xilonen",
+        "Element": "Geo",
+        "owned": 0,
+        "level": 1
+    },
+    {
+        "Name": "Xingqiu",
+        "Element": "Hydro",
+        "owned": 0,
+        "level": 1
+    },
+    {
+        "Name": "Xinyan",
+        "Element": "Pyro",
+        "owned": 0,
+        "level": 1
+    },
+    {
+        "Name": "Yae Miko",
+        "Element": "Electro",
+        "owned": 0,
+        "level": 1
+    },
+    {
+        "Name": "Yanfei",
+        "Element": "Pyro",
+        "owned": 0,
+        "level": 1
+    },
+    {
+        "Name": "Yaoyao",
+        "Element": "Dendro",
+        "owned": 0,
+        "level": 1
+    },
+    {
+        "Name": "Yelan",
+        "Element": "Hydro",
+        "owned": 0,
+        "level": 1
+    },
+    {
+        "Name": "Yoimiya",
+        "Element": "Pyro",
+        "owned": 0,
+        "level": 1
+    },
+    {
+        "Name": "Yumemizuki Mizuki",
+        "Element": "Anemo",
+        "owned": 0,
+        "level": 1
+    },
+    {
+        "Name": "Yun Jin",
+        "Element": "Geo",
+        "owned": 0,
+        "level": 1
+    },
+    {
+        "Name": "Zhongli",
+        "Element": "Geo",
+        "owned": 0,
+        "level": 1
+    }
 ]

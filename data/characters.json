@@ -272,8 +272,8 @@
     {
         "Name": "Keqing",
         "Element": "Electro",
-        "owned": 0,
-        "level": 1
+        "owned": 1,
+        "level": 60
     },
     {
         "Name": "Kinich",
@@ -284,8 +284,8 @@
     {
         "Name": "Kirara",
         "Element": "Dendro",
-        "owned": 0,
-        "level": 1
+        "owned": 1,
+        "level": 60
     },
     {
         "Name": "Klee",
@@ -296,14 +296,14 @@
     {
         "Name": "Kujou Sara",
         "Element": "Electro",
-        "owned": 0,
-        "level": 1
+        "owned": 1,
+        "level": 60
     },
     {
         "Name": "Kuki Shinobu",
         "Element": "Electro",
-        "owned": 0,
-        "level": 1
+        "owned": 1,
+        "level": 60
     },
     {
         "Name": "Lan Yan",
@@ -368,8 +368,8 @@
     {
         "Name": "Navia",
         "Element": "Geo",
-        "owned": 0,
-        "level": 1
+        "owned": 1,
+        "level": 60
     },
     {
         "Name": "Neuvillette",
@@ -398,8 +398,8 @@
     {
         "Name": "Ororon",
         "Element": "Electro",
-        "owned": 0,
-        "level": 1
+        "owned": 1,
+        "level": 70
     },
     {
         "Name": "Qiqi",
@@ -422,8 +422,8 @@
     {
         "Name": "Rosaria",
         "Element": "Cryo",
-        "owned": 0,
-        "level": 1
+        "owned": 1,
+        "level": 70
     },
     {
         "Name": "Sangonomiya Kokomi",
@@ -440,8 +440,8 @@
     {
         "Name": "Sethos",
         "Element": "Electro",
-        "owned": 0,
-        "level": 1
+        "owned": 1,
+        "level": 60
     },
     {
         "Name": "Shenhe",
@@ -530,8 +530,8 @@
     {
         "Name": "Varesa",
         "Element": "Electro",
-        "owned": 0,
-        "level": 1
+        "owned": 1,
+        "level": 60
     },
     {
         "Name": "Venti",
@@ -572,8 +572,8 @@
     {
         "Name": "Xilonen",
         "Element": "Geo",
-        "owned": 0,
-        "level": 1
+        "owned": 1,
+        "level": 60
     },
     {
         "Name": "Xingqiu",
@@ -584,8 +584,8 @@
     {
         "Name": "Xinyan",
         "Element": "Pyro",
-        "owned": 0,
-        "level": 1
+        "owned": 1,
+        "level": 70
     },
     {
         "Name": "Yae Miko",
@@ -602,8 +602,8 @@
     {
         "Name": "Yaoyao",
         "Element": "Dendro",
-        "owned": 0,
-        "level": 1
+        "owned": 1,
+        "level": 60
     },
     {
         "Name": "Yelan",
@@ -632,7 +632,7 @@
     {
         "Name": "Zhongli",
         "Element": "Geo",
-        "owned": 0,
-        "level": 1
+        "owned": 1,
+        "level": 60
     }
 ]

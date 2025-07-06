@@ -1,0 +1,20 @@
+{
+  "previous": {
+    "name": "June",
+    "trial_characters": ["Xingqiu", "Barbara", "Amber", "Thoma", "Sucrose", "Kaedehara Kazuha"],
+    "featured_elements": ["Pyro", "Anemo", "Hydro"],
+    "off_element_characters": ["Chongyun", "Yun Jin", "Dori", "Skirk"]
+  },
+  "current": {
+    "name": "July",
+    "trial_characters": ["Collei", "Noelle", "Fischl", "Gorou", "Nahida", "Lisa"],
+    "featured_elements": ["Electro", "Geo", "Dendro"],
+    "off_element_characters": ["Rosaria", "Xinyan", "Faruzan", "Mika"]
+  },
+  "next": {
+    "name": "August",
+    "trial_characters": ["Ganyu", "Yanfei", "Heizou", "Layla", "Yumemizuki Mizuki", "Bennett"],
+    "featured_elements": ["Cryo", "Pyro", "Anemo"],
+    "off_element_characters": ["Ningguang", "Beidou", "Yaoyao", "Razor"]
+  }
+}

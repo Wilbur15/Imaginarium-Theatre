@@ -4,10 +4,11 @@ import json
 import os
 
 class CharacterSelector(ctk.CTkFrame):
-    def __init__(self, master):
+    def __init__(self, master, on_save_callback=None):
         super().__init__(master)
 
         self.characters_file = "data/characters.json"
+        self.on_save_callback = on_save_callback
 
         # Load character data
         with open(self.characters_file, "r", encoding="utf-8") as f:
@@ -93,3 +94,7 @@ class CharacterSelector(ctk.CTkFrame):
             json.dump(self.characters, f, indent=4)
 
         print("Character data saved!")
+
+        # Call the callback to update qualification page if provided
+        if self.on_save_callback:
+            self.on_save_callback()

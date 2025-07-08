@@ -7,11 +7,12 @@ ctk.set_appearance_mode("dark")
 ctk.set_default_color_theme("blue")
 
 app = ctk.CTk()
-app.geometry("1920x1080")
+app.after(0, lambda: app.wm_state('zoomed'))
 app.title("Imaginarium Theatre Helper")
 
+
 # --- Tab View ---
-tabview = ctk.CTkTabview(app, width=1000, height=700)
+tabview = ctk.CTkTabview(app)
 tabview.pack(padx=20, pady=20, fill="both", expand=True)
 
 tabview.add("This Month")
